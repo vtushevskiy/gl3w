@@ -3,7 +3,7 @@
 *.os
 bin
 lib
-include
+#include
 src/gl3w.c
 *.cmake
 CMakeFiles
